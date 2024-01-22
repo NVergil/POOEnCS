@@ -1,0 +1,7 @@
+C:\Users\VerDanT\source\repos\POOCourseHdeleon\POOCourseHdeleon\obj\Debug\POOCourseHdeleon.csproj.AssemblyReference.cache
+C:\Users\VerDanT\source\repos\POOCourseHdeleon\POOCourseHdeleon\obj\Debug\POOCourseHdeleon.csproj.CoreCompileInputs.cache
+C:\Users\VerDanT\source\repos\POOCourseHdeleon\POOCourseHdeleon\bin\Debug\POOCourseHdeleon.exe.config
+C:\Users\VerDanT\source\repos\POOCourseHdeleon\POOCourseHdeleon\bin\Debug\POOCourseHdeleon.exe
+C:\Users\VerDanT\source\repos\POOCourseHdeleon\POOCourseHdeleon\bin\Debug\POOCourseHdeleon.pdb
+C:\Users\VerDanT\source\repos\POOCourseHdeleon\POOCourseHdeleon\obj\Debug\POOCourseHdeleon.exe
+C:\Users\VerDanT\source\repos\POOCourseHdeleon\POOCourseHdeleon\obj\Debug\POOCourseHdeleon.pdb
